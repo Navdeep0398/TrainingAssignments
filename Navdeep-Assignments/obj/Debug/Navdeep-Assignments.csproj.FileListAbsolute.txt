@@ -1,0 +1,7 @@
+C:\Training\Basics\Assignments\Navdeep-Assignments\bin\Debug\Navdeep-Assignments.exe.config
+C:\Training\Basics\Assignments\Navdeep-Assignments\bin\Debug\Navdeep-Assignments.exe
+C:\Training\Basics\Assignments\Navdeep-Assignments\bin\Debug\Navdeep-Assignments.pdb
+C:\Training\Basics\Assignments\Navdeep-Assignments\obj\Debug\Navdeep-Assignments.csproj.AssemblyReference.cache
+C:\Training\Basics\Assignments\Navdeep-Assignments\obj\Debug\Navdeep-Assignments.csproj.CoreCompileInputs.cache
+C:\Training\Basics\Assignments\Navdeep-Assignments\obj\Debug\Navdeep-Assignments.exe
+C:\Training\Basics\Assignments\Navdeep-Assignments\obj\Debug\Navdeep-Assignments.pdb
