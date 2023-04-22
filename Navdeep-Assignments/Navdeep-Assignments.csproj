@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Navdeep_Assignments.Assignment5</StartupObject>
+    <StartupObject>Navdeep_Assignments.Assignment13</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,12 +47,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assignment1.cs" />
+    <Compile Include="Assignment11.cs" />
+    <Compile Include="Assignment13.cs" />
     <Compile Include="Assignment2.cs" />
     <Compile Include="Assignment3.cs" />
     <Compile Include="Assignment4.cs" />
     <Compile Include="Assignment5.cs" />
+    <Compile Include="Assignment7.cs" />
+    <Compile Include="Assignment9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UIConsole.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
