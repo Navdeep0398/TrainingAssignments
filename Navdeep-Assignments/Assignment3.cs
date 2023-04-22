@@ -81,6 +81,7 @@ namespace Navdeep_Assignments
                 
                 Console.WriteLine("Enter true to continue or false to exit");
                 flag = bool.Parse(Console.ReadLine());
+                Console.Clear();
             } while(flag!=false);
         }
     }
