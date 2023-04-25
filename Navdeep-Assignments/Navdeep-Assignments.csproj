@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Navdeep_Assignments.Assignment3</StartupObject>
+    <StartupObject>Navdeep_Assignments.Assignment12</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Assignment1.cs" />
     <Compile Include="Assignment11.cs" />
+    <Compile Include="Assignment12.cs" />
     <Compile Include="Assignment13.cs" />
     <Compile Include="Assignment2.cs" />
     <Compile Include="Assignment3.cs" />
@@ -60,6 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Menu.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+﻿------------Customer Records--------------
+For Adding a Customer--------Press 1
+For Deleting a Customer------Press 2
+For Updating a Customer------Press 3
+For Finding a Customer-------Press 4
+------------------------------------------
