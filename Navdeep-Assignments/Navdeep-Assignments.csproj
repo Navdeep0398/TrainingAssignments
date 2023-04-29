@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Navdeep_Assignments.Arrays.Assignment4</StartupObject>
+    <StartupObject>Navdeep_Assignments.AssociateProgram</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,7 @@
     <Compile Include="Assignment6.cs" />
     <Compile Include="Assignment7.cs" />
     <Compile Include="Assignment9.cs" />
+    <Compile Include="AssociateProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UIConsole.cs" />
   </ItemGroup>
