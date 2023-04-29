@@ -1,0 +1,8 @@
+﻿-------------------Employee Management System----------------
+  To Add a Employee-------------------------------Press 1
+  To Remove a Employee----------------------------Press 2
+  To Update a Employee----------------------------Press 3
+  To Find a Employee by Id------------------------Press 4
+  To Find a Employee by Name----------------------Press 5
+  -------------------------------------------------------
+      

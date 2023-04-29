@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <EmployeeId>1001</EmployeeId>
+    <EmployeeName>Employee1</EmployeeName>
+    <EmployeeAddress>Bangalore</EmployeeAddress>
+    <EmployeeSalary>50000</EmployeeSalary>
+  </Employee>
+  <Employee>
+    <EmployeeId>1002</EmployeeId>
+    <EmployeeName>Employee2</EmployeeName>
+    <EmployeeAddress>Bangalore</EmployeeAddress>
+    <EmployeeSalary>45000</EmployeeSalary>
+  </Employee>
+  <Employee>
+    <EmployeeId>1003</EmployeeId>
+    <EmployeeName>Employee3</EmployeeName>
+    <EmployeeAddress>banglore</EmployeeAddress>
+    <EmployeeSalary>45000</EmployeeSalary>
+  </Employee>
+  <Employee>
+    <EmployeeId>1004</EmployeeId>
+    <EmployeeName>Employee4</EmployeeName>
+    <EmployeeAddress>Bangalore</EmployeeAddress>
+    <EmployeeSalary>50000</EmployeeSalary>
+  </Employee>
+  <Employee>
+    <EmployeeId>1005</EmployeeId>
+    <EmployeeName>Employee5</EmployeeName>
+    <EmployeeAddress>Banglore</EmployeeAddress>
+    <EmployeeSalary>55000</EmployeeSalary>
+  </Employee>
+</ArrayOfEmployee>

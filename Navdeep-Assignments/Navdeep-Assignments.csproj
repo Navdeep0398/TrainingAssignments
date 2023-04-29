@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Navdeep_Assignments.Assignment12</StartupObject>
+    <StartupObject>Navdeep_Assignments.Assignment16</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,14 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays\Assignment1.cs" />
     <Compile Include="Assignment1.cs" />
     <Compile Include="Assignment11.cs" />
     <Compile Include="Assignment12.cs" />
     <Compile Include="Assignment13.cs" />
+    <Compile Include="Assignment14.cs" />
+    <Compile Include="Assignment15.cs" />
+    <Compile Include="Assignment16.cs" />
     <Compile Include="Assignment2.cs" />
     <Compile Include="Assignment3.cs" />
     <Compile Include="Assignment4.cs" />
     <Compile Include="Assignment5.cs" />
+    <Compile Include="Assignment6.cs" />
     <Compile Include="Assignment7.cs" />
     <Compile Include="Assignment9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -61,8 +66,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="PatientData.csv" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assignment15Menu.txt" />
     <Content Include="Menu.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
