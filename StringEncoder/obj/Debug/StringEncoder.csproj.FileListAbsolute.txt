@@ -1,0 +1,7 @@
+C:\Training\Basics\Assignments\StringEncoder\bin\Debug\StringEncoder.exe.config
+C:\Training\Basics\Assignments\StringEncoder\bin\Debug\StringEncoder.exe
+C:\Training\Basics\Assignments\StringEncoder\bin\Debug\StringEncoder.pdb
+C:\Training\Basics\Assignments\StringEncoder\obj\Debug\StringEncoder.csproj.AssemblyReference.cache
+C:\Training\Basics\Assignments\StringEncoder\obj\Debug\StringEncoder.csproj.CoreCompileInputs.cache
+C:\Training\Basics\Assignments\StringEncoder\obj\Debug\StringEncoder.exe
+C:\Training\Basics\Assignments\StringEncoder\obj\Debug\StringEncoder.pdb
