@@ -1,0 +1,6 @@
+C:\Training\Basics\Assignments\AssignmentsDll\bin\Debug\AssignmentsDll.dll
+C:\Training\Basics\Assignments\AssignmentsDll\bin\Debug\AssignmentsDll.pdb
+C:\Training\Basics\Assignments\AssignmentsDll\obj\Debug\AssignmentsDll.csproj.AssemblyReference.cache
+C:\Training\Basics\Assignments\AssignmentsDll\obj\Debug\AssignmentsDll.csproj.CoreCompileInputs.cache
+C:\Training\Basics\Assignments\AssignmentsDll\obj\Debug\AssignmentsDll.dll
+C:\Training\Basics\Assignments\AssignmentsDll\obj\Debug\AssignmentsDll.pdb

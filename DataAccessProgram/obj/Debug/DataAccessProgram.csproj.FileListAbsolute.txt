@@ -1,0 +1,10 @@
+C:\Training\Basics\Assignments\DataAccessProgram\bin\Debug\DataAccessProgram.exe.config
+C:\Training\Basics\Assignments\DataAccessProgram\bin\Debug\DataAccessProgram.exe
+C:\Training\Basics\Assignments\DataAccessProgram\bin\Debug\DataAccessProgram.pdb
+C:\Training\Basics\Assignments\DataAccessProgram\bin\Debug\AssignmentsDll.dll
+C:\Training\Basics\Assignments\DataAccessProgram\bin\Debug\AssignmentsDll.pdb
+C:\Training\Basics\Assignments\DataAccessProgram\obj\Debug\DataAccessProgram.csproj.AssemblyReference.cache
+C:\Training\Basics\Assignments\DataAccessProgram\obj\Debug\DataAccessProgram.csproj.CoreCompileInputs.cache
+C:\Training\Basics\Assignments\DataAccessProgram\obj\Debug\DataAccessProgram.csproj.CopyComplete
+C:\Training\Basics\Assignments\DataAccessProgram\obj\Debug\DataAccessProgram.exe
+C:\Training\Basics\Assignments\DataAccessProgram\obj\Debug\DataAccessProgram.pdb
